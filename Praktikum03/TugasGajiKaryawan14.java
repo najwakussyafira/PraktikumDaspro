@@ -16,6 +16,8 @@ public class TugasGajiKaryawan14 {
         totalgajibersih = gajisamabonus - 0.05 * gajisamabonus;
         System.out.println("Berikut total gaji bersih anda: " + totalgajibersih);
 
+        sc.close();
+
 
 
     }
